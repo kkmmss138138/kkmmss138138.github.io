@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LifeRegen on LifeRegen 萊芙蕾</title>
+    <link>http://localhost:1313/categories/liferegen/</link>
+    <description>Recent content in LifeRegen on LifeRegen 萊芙蕾</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 26 Jan 2025 15:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/liferegen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LifeRegen 介紹</title>
+      <link>http://localhost:1313/post/my-first-post/</link>
+      <pubDate>Sun, 26 Jan 2025 15:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;liferegen-juvenate-護膚系列&#34;&gt;LifeRegen Juvenate 護膚系列&lt;/h1&gt;&#xA;&lt;p&gt;LifeRegen 專注於提供高效、自然與科學結合的護膚解決方案。Juvenate 護膚系列是其重點產品，針對弱化的肌膚屏障，提供全方位的修復並鎖住水分，保持肌膚年輕光彩。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
