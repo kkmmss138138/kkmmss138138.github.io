@@ -71,10 +71,4 @@
     <priority>0.5</priority>
   </url>
   
-  <url>
-    <loc>http://localhost:1313/googleb41ee784e1a128e9/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
 </urlset>
