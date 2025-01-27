@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://kkmmss138138.github.io/sitemap.xml
