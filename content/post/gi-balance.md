@@ -53,6 +53,7 @@ LifeRegen™ GI Balance不僅僅是一種補充劑；它是對您健康的承諾
 
 - **電話**：[撥打 0933-819-760](tel:0933819760)
 - **電子郵件**：[kkmmss138138@gmail.com](mailto:kkmmss138138@gmail.com)
+- **電子郵件**：[kkmmss138@hotmail.com](mailto:kkmmss138@hotmail.com)
 
 ## 結論
 
